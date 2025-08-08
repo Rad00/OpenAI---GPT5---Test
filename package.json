@@ -1,9 +1,0 @@
-{
-  "name": "solar-configurator",
-  "version": "0.1.0",
-  "description": "MVP solar configurator",
-  "scripts": {
-    "start": "node server.js",
-    "test": "node --check server.js"
-  }
-}
